@@ -15,9 +15,13 @@ Read the following sections:
 |   +-- Prior Art
 |   +-- Ecosystem
 |   +-- Examples
-+-- includes
-|   +-- footer.html
-|   +-- header.html
++-- Basics
+|   +-- Actions
+|   +-- Reducers
+|   +-- Store
+|   +-- Data Flow
+|   +-- Usage with React
+|   +-- Example: Todo List
 ```
 
 
