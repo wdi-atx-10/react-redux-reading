@@ -6,6 +6,7 @@ Head on over to: http://redux.js.org/
 
 Read the following sections:
 
+```
 .
 +-- _Introduction
 |   +-- Motivation
@@ -27,6 +28,7 @@ Read the following sections:
 |   +-- members.yml
 +-- _site
 +-- index.html
+```
 
 
 
