@@ -6,6 +6,7 @@ Head on over to: http://redux.js.org/
 
 Read the following sections:
 
+.
 +-- _Introduction
 |   +-- Motivation
 |   +-- Core Concepts
