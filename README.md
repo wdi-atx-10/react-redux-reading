@@ -7,27 +7,17 @@ Head on over to: http://redux.js.org/
 Read the following sections:
 
 ```
-.
-+-- _Introduction
+
++-- Introduction
 |   +-- Motivation
 |   +-- Core Concepts
 |   +-- Three Principles
 |   +-- Prior Art
 |   +-- Ecosystem
 |   +-- Examples
-+-- _includes
++-- includes
 |   +-- footer.html
 |   +-- header.html
-+-- _layouts
-|   +-- default.html
-|   +-- post.html
-+-- _posts
-|   +-- 2007-10-29-why-every-programmer-should-play-nethack.textile
-|   +-- 2009-04-26-barcamp-boston-4-roundup.textile
-+-- _data
-|   +-- members.yml
-+-- _site
-+-- index.html
 ```
 
 
