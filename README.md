@@ -21,7 +21,7 @@ Read the following sections:
 |   +-- Store
 |   +-- Data Flow
 |   +-- Usage with React
-|   +-- [Example: Todo List](http://redux.js.org/docs/basics/ExampleTodoList.html)
+|   +-- Example: Todo List
 ```
 
 
